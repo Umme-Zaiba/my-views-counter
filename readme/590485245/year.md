@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/Umme-Zaiba/my-views-counter)
 
-### :octocat: [My-resume](https://github.com/Umme-Zaiba/My-resume)
-![Image of my-views-counter](https://github.com/Umme-Zaiba/my-views-counter/blob/master/graph/574518036/large/year.png)
+### :octocat: [DBMS-Project](https://github.com/Umme-Zaiba/DBMS-Project)
+![Image of my-views-counter](https://github.com/Umme-Zaiba/my-views-counter/blob/master/graph/590485245/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2023/1/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>19</code>
+			<code>39</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/12/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/Umme-Zaiba/my-views-counter/blob/master/svg/574518036/badge.svg)](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/574518036/week.md)
+[![Image of my-views-counter](https://github.com/Umme-Zaiba/my-views-counter/blob/master/svg/590485245/badge.svg)](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/590485245/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/Umme-Zaiba/my-views-counter/blob/master/svg/574518036/badge.svg)](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/574518036/week.md)
+[![Image of my-views-counter](https://github.com/Umme-Zaiba/my-views-counter/blob/master/svg/590485245/badge.svg)](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/590485245/week.md)
 ```
 ### Header
-# My-resume [<img alt="Image of my-views-counter" src="https://github.com/Umme-Zaiba/my-views-counter/blob/master/graph/574518036/small/year.png" height="20">](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/574518036/year.md)
+# DBMS-Project [<img alt="Image of my-views-counter" src="https://github.com/Umme-Zaiba/my-views-counter/blob/master/graph/590485245/small/year.png" height="20">](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/590485245/year.md)
 ```readme
-# My-resume [<img alt="Image of my-views-counter" src="https://github.com/Umme-Zaiba/my-views-counter/blob/master/graph/574518036/small/year.png" height="20">](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/574518036/year.md)
+# DBMS-Project [<img alt="Image of my-views-counter" src="https://github.com/Umme-Zaiba/my-views-counter/blob/master/graph/590485245/small/year.png" height="20">](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/590485245/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

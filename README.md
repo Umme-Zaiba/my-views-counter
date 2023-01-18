@@ -85,23 +85,23 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Umme-Zaiba/my-views-counter/tree/master/readme/585958102/year.md">
+			<a href="https://github.com/Umme-Zaiba/my-views-counter/tree/master/readme/590485245/year.md">
 				DBMS-Project
 			</a>
 		</td>
 		<td>
-			2023/1/16 1:02 AM UTC
+			2023/1/15 6:15 PM UTC
 		</td>
 		<td>
-			4
+			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Umme-Zaiba/my-views-counter/raw/master/graph/585958102/small/year.png" height="20"> 5
+			<img alt="Response time graph" src="https://github.com/Umme-Zaiba/my-views-counter/raw/master/graph/590485245/small/year.png" height="20"> 39
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/1/18 12:24 PM UTC</i></small>
+<small><i>Last updated on 2023/1/18 6:15 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
