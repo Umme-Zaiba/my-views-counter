@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/Umme-Zaiba/my-views-counter)
 
-### :octocat: [Web-Scraping--Amazon-website](https://github.com/Umme-Zaiba/Web-Scraping--Amazon-website)
-![Image of my-views-counter](https://github.com/Umme-Zaiba/my-views-counter/blob/master/graph/640206209/large/year.png)
+### :octocat: [Inventory-tracking](https://github.com/Umme-Zaiba/Inventory-tracking)
+![Image of my-views-counter](https://github.com/Umme-Zaiba/my-views-counter/blob/master/graph/699838509/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2023/10/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>3</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2023/9/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2023/8/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2023/6/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>19</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2023/5/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>10</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/10/6 6:15 PM UTC</i></small>
+<small><i>Last updated on 2023/10/6 6:16 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/Umme-Zaiba/my-views-counter/blob/master/svg/640206209/badge.svg)](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/640206209/week.md)
+[![Image of my-views-counter](https://github.com/Umme-Zaiba/my-views-counter/blob/master/svg/699838509/badge.svg)](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/699838509/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/Umme-Zaiba/my-views-counter/blob/master/svg/640206209/badge.svg)](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/640206209/week.md)
+[![Image of my-views-counter](https://github.com/Umme-Zaiba/my-views-counter/blob/master/svg/699838509/badge.svg)](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/699838509/week.md)
 ```
 ### Header
-# Web-Scraping--Amazon-website [<img alt="Image of my-views-counter" src="https://github.com/Umme-Zaiba/my-views-counter/blob/master/graph/640206209/small/year.png" height="20">](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/640206209/year.md)
+# Inventory-tracking [<img alt="Image of my-views-counter" src="https://github.com/Umme-Zaiba/my-views-counter/blob/master/graph/699838509/small/year.png" height="20">](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/699838509/year.md)
 ```readme
-# Web-Scraping--Amazon-website [<img alt="Image of my-views-counter" src="https://github.com/Umme-Zaiba/my-views-counter/blob/master/graph/640206209/small/year.png" height="20">](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/640206209/year.md)
+# Inventory-tracking [<img alt="Image of my-views-counter" src="https://github.com/Umme-Zaiba/my-views-counter/blob/master/graph/699838509/small/year.png" height="20">](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/699838509/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
