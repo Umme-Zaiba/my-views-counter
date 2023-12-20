@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/Umme-Zaiba/my-views-counter)
 
-### :octocat: [Javascipt-projects](https://github.com/Umme-Zaiba/Javascipt-projects)
-![Image of my-views-counter](https://github.com/Umme-Zaiba/my-views-counter/blob/master/graph/586508444/large/year.png)
+### :octocat: [reactJs-challenge](https://github.com/Umme-Zaiba/reactJs-challenge)
+![Image of my-views-counter](https://github.com/Umme-Zaiba/my-views-counter/blob/master/graph/733844321/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2023/12/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>12</code>
+			<code>4</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2023/11/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2023/10/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2023/9/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2023/8/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2023/7/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2023/6/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2023/5/1</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -111,10 +111,10 @@
 			<code>2023/4/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -122,10 +122,10 @@
 			<code>2023/3/1</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>32</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -133,10 +133,10 @@
 			<code>2023/2/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>15</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -144,10 +144,10 @@
 			<code>2023/1/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>61</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/12/20 6:14 PM UTC</i></small>
+<small><i>Last updated on 2023/12/20 6:16 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/Umme-Zaiba/my-views-counter/blob/master/svg/586508444/badge.svg)](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/586508444/week.md)
+[![Image of my-views-counter](https://github.com/Umme-Zaiba/my-views-counter/blob/master/svg/733844321/badge.svg)](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/733844321/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/Umme-Zaiba/my-views-counter/blob/master/svg/586508444/badge.svg)](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/586508444/week.md)
+[![Image of my-views-counter](https://github.com/Umme-Zaiba/my-views-counter/blob/master/svg/733844321/badge.svg)](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/733844321/week.md)
 ```
 ### Header
-# Javascipt-projects [<img alt="Image of my-views-counter" src="https://github.com/Umme-Zaiba/my-views-counter/blob/master/graph/586508444/small/year.png" height="20">](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/586508444/year.md)
+# reactJs-challenge [<img alt="Image of my-views-counter" src="https://github.com/Umme-Zaiba/my-views-counter/blob/master/graph/733844321/small/year.png" height="20">](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/733844321/year.md)
 ```readme
-# Javascipt-projects [<img alt="Image of my-views-counter" src="https://github.com/Umme-Zaiba/my-views-counter/blob/master/graph/586508444/small/year.png" height="20">](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/586508444/year.md)
+# reactJs-challenge [<img alt="Image of my-views-counter" src="https://github.com/Umme-Zaiba/my-views-counter/blob/master/graph/733844321/small/year.png" height="20">](https://github.com/Umme-Zaiba/my-views-counter/blob/master/readme/733844321/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
